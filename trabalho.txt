@@ -1,4 +1,4 @@
-nome tiago silva rodrigues ra 618107368
+nome: tiago silva rodrigues ra: 618107368
 
 
 .o que e inferno das dependencias? é uma designação dada a complicações no lidar com pacotes de software.
